@@ -1,0 +1,220 @@
+{"eval_id": 78, "standalone_query": "나무의 분류에 대해 조사해 보기 위한 방법은?", "topk": ["c63b9e3a-716f-423a-9c9b-0bcaa1b9f35d", "6788c97f-3460-4b93-953a-ea6cbed0c2d2", "9712bdf6-9419-4953-a8f1-8a4015dee986"]}
+{"eval_id": 213, "standalone_query": "각 나라에서의 공교육 지출 현황에 대해 알려줘.", "topk": ["79c93deb-fe60-4c81-8d51-cb7400a0a156", "88439180-e442-4ecf-a485-88c7de0296e9", "4f0ea39c-f16c-4d6a-9709-d106c66afcc9"]}
+{"eval_id": 107, "standalone_query": "기억 상실증 걸리면 너무 무섭겠다.어떤 원인 때문에 발생하는지 궁금해.", "topk": ["25de4ffd-cee4-4f27-907e-fd6b802c6ede", "8ce9b365-0ab9-4230-af45-6cdfd9a4c25b", "b66b9bc2-58c4-4677-8cbf-8f3295a40197"]}
+{"eval_id": 81, "standalone_query": "통학 버스의 가치에 대해 말해줘.", "topk": ["5d48fa4e-1999-45dc-b768-b15b30a87cc5", "bd91bda8-351e-4683-bb1a-8254f93e2376", "7404b07e-7b4d-4668-9d1a-7742a063a4ce"]}
+{"eval_id": 280, "standalone_query": "Dmitri Ivanovsky가 누구야?", "topk": []}
+{"eval_id": 10, "standalone_query": "피임을 하기 위한 방법중 약으로 처리하는 방법은 쓸만한가?", "topk": ["d89e78ba-71e3-4200-8049-89f0d13285a9", "99a07643-8479-4d34-9de8-68627854f458", "93fb1b5b-1f85-4fe2-b8d2-0f64cb18bd7e"]}
+{"eval_id": 100, "standalone_query": "헬륨이 다른 원소들과 반응을 잘 안하는 이유는?", "topk": ["d9ce8432-f72e-4253-9735-98318a6f9f7f", "2799c61e-5d2c-4c3f-b4a4-d58ffdee9f92", "bc38ed65-0126-4d8b-bab9-49c1bb34861c"]}
+{"eval_id": 279, "standalone_query": "문맹 비율이 사회 발전에 미치는 영향은?", "topk": ["de1ab247-9d48-48f7-8499-31606f53c108", "0f0dd1ae-a36c-4c97-9785-4698400c67b1", "8817bdf4-aea7-46e7-8f84-19804ec2f728"]}
+{"eval_id": 42, "standalone_query": "이란 콘트라 사건이 뭐야이 사건이 미국 정치에 미친 영향은?", "topk": ["4b49f3a2-32c9-4b2e-89c4-4719f98e7a74", "2e91a956-a24a-4d0c-8a9a-7aeadba95ad9", "e181b15e-d1a2-445e-8867-2bc0b6a0ae65"]}
+{"eval_id": 308, "standalone_query": "자기장이 얼마나 센지 표현하는 방식은?", "topk": ["72c780ec-57bb-4fe1-976a-d7ee3d3dbb52", "59b15893-ea8a-44e3-b33f-04c3ce9b2e10", "1dc70815-2d4d-4b09-a03e-54005e7863b9"]}
+{"eval_id": 205, "standalone_query": "피를 맑게 하고 몸 속의 노폐물을 없애는 역할을 하는 기관은?", "topk": ["2a669d8e-5617-443c-9c4a-18c187157569", "59f5f7c9-37a1-438b-8b3a-c2d7f019fea3", "a4fe496e-c46e-4632-acac-6ac2003c300f"]}
+{"eval_id": 289, "standalone_query": "글리코겐의 분해는 인체에서 왜 필요한가?", "topk": ["421aac6b-49ce-4697-a68f-850152f323d7", "1f442344-084b-44f8-838b-332be289083c", "125c5959-225d-4f7d-83c2-306f2492f995"]}
+{"eval_id": 268, "standalone_query": "빗방울이 점점 커지게 되는 요인은?", "topk": ["a90acfad-77f9-4b31-9aee-12253f9b810e", "0bb52aae-bcc6-498c-aa5e-7be563846857", "a35c09b4-e702-471c-9328-87108f9a1590"]}
+{"eval_id": 18, "standalone_query": "기체의 부피나 형태가 왜 일정하지 않을까?", "topk": ["63846d07-8443-4bf8-8cd9-bc6cc7826555", "7e2b136f-a1b0-4922-8474-7be40b80ec79", "524603b0-3172-4725-88f0-0fa427b66d4d"]}
+{"eval_id": 9, "standalone_query": "식물이 빛을 에너지로 변환하는 과정에 대해 설명해줘.", "topk": ["e39256ff-1053-4176-a667-713a01d679b1", "bfbba89d-fdaa-400d-8848-ca1ff8d51cd7", "8ead685d-eb51-45ae-b110-f6d6d43467cb"]}
+{"eval_id": 101, "standalone_query": "직류와 교류 전류의 차이에 대해 알려줘.", "topk": ["144f5e5e-8069-425f-80b3-6388195ba4ee", "07ba99c0-c36a-464c-a896-8466cc84c501", "4144c2b0-8334-4d65-97b8-94f33708b57d"]}
+{"eval_id": 236, "standalone_query": "기름과 물이 섞여 있을 수 있나?", "topk": ["6acde723-5e70-4789-9fa2-dbee23d5a250", "2077ea5b-53ac-4242-bbfc-20005ad63db8", "40553136-6909-4bf7-8127-410e1bad339d"]}
+{"eval_id": 59, "standalone_query": "인간이 2세를 생산할 때 DNA의 결합 과정에 대히 설명해줘.", "topk": ["82b095fd-2fb6-48ae-8476-2f457f8b6650", "69d9fb50-8ce0-4c03-94df-c34c9e2e3318", "11914201-ec89-43a8-b1a0-2fb912e1df88"]}
+{"eval_id": 25, "standalone_query": "금성에서 달이 어떻게 보일까?", "topk": ["35c5dcc7-4720-4318-901e-770105ae63fd", "464ace62-ddf2-423d-a5d7-2f17e6785c8e", "45b8eb6a-87e3-4333-b01b-7c8b772f827f"]}
+{"eval_id": 5, "standalone_query": "차량의 연비가 좋아질때 나타나는 긍정적인 효과는?", "topk": ["59d5d7bb-6700-40ad-8884-ff43b1a9a1a0", "699d9916-8faf-4dd7-8c24-82a9351d0ca8", "de568218-deb0-4a58-bdeb-245251fd0e8b"]}
+{"eval_id": 104, "standalone_query": "혼합물의 특성에 대해 알려줘.", "topk": ["778661ac-836f-4d41-87ce-74ada9cdb276", "73089763-06d2-4395-b235-aa3e6a399531", "3549df30-3ce1-4d57-bfcd-0c465229c81d"]}
+{"eval_id": 276, "standalone_query": "요새 너무 힘들다.", "topk": ["25eee08d-e182-49a1-a921-8409df136ffb", "4553d7ac-57e2-4ff7-b814-5954016fecd6", "e080c5c3-3076-4364-aeb1-e8f4126b76b8"]}
+{"eval_id": 14, "standalone_query": "세제의 거품이 만들어지는 원리는?", "topk": ["2077ea5b-53ac-4242-bbfc-20005ad63db8", "5a67b487-c00d-4de2-a112-98ece21a0d13", "7d59c9e1-f183-4e8f-9621-ec4349fea21a"]}
+{"eval_id": 270, "standalone_query": "나무가 생태계에서 하는 역할에 대해 설명해줘.", "topk": ["e4186e86-6782-472a-a688-276965ef2f45", "602023e3-0a51-43e7-8989-393303aa2bf4", "2e49f4c2-934d-45b3-af98-6f8fffa69642"]}
+{"eval_id": 238, "standalone_query": "전류의 흐름을 극대화 하려면 배터리와 저항을 어떻게 연결해야 하나?", "topk": ["f48600d6-e492-43eb-b564-1860aa81da5f", "a3125d12-70ef-4698-8873-0f53e40b1310", "cbb7fc5e-f284-4b66-bd88-ef53baf4ef25"]}
+{"eval_id": 269, "standalone_query": "식물이 높이 자랄 수 있게 하는 메커니즘이 궁금해.", "topk": ["05b5a4f4-b115-4b76-9fe1-b80c4498289b", "f3c2d9c9-e36c-48c7-b9cb-553a1fe3e631", "8ac77b42-dc67-4a4c-8bc2-e1f3db33195c"]}
+{"eval_id": 43, "standalone_query": "달을 보면 항상 같은 면만 보이더라구그 이유가 뭐야?", "topk": ["8a78364e-63bf-4915-b718-fdc461bc62c9", "cefe7caf-6cd1-422a-b41e-e82b543556e9", "892eb0be-055f-47c5-8895-1afb97c8f406"]}
+{"eval_id": 65, "standalone_query": "식초와 베이킹 소다를 섞어주면 어떤 일이 일어나?", "topk": ["0bda5010-9ac6-447b-b484-60e380f4921d", "f5f54058-8c3c-4f6b-9549-db99b17685ed", "aa463143-5b6a-421b-8cfc-fc47b1126d47"]}
+{"eval_id": 97, "standalone_query": "세균이 나쁜줄말 알았는데 그게 아니야?그럼 순기능에 대해 알려줄래?", "topk": ["1655c90b-29c7-47ef-a092-01f2550db3aa", "5c5a0200-462e-4dd6-981f-b0bf7026ec5e", "e0458408-2b78-47c0-b28d-55cc5cab214c"]}
+{"eval_id": 206, "standalone_query": "오토마톤의 특징에 대해 알려줘.", "topk": ["70d104b2-8d74-4799-a09d-5a4c8dd577c0", "6acb158d-9252-4dad-9c96-4f9c75ae5482", "8b4e8f68-486b-49fb-882b-21dd94b85f6e"]}
+{"eval_id": 21, "standalone_query": "다양한 책을 catalog화 하는 코드에서 class 정의 방법 알려줘.", "topk": ["7150c749-dff2-4bd5-90ff-ff1e1cda468b", "0898d075-effb-4ecd-95be-ec0defc5abd1", "e801c60c-1bda-411e-b750-cce018f99c4a"]}
+{"eval_id": 221, "standalone_query": "전구가 병렬로 연결될 때 전류가 줄어드는 원인은?", "topk": ["8ae1234f-2a28-4069-a017-e99de5d67cc6", "c882603e-84fb-4fba-b73f-c64f9504427d", "c568a36b-8349-400f-a484-415b3b96fabe"]}
+{"eval_id": 71, "standalone_query": "물속에서 침전이 발생하는 원리에 대해 알려줘.", "topk": ["5043c033-841c-46dd-94a3-1b5bef034c62", "5130f23b-20e9-45a8-ba7f-456e8a9bceed", "d185515e-3f55-4d3c-b0d2-b22d86af1ee3"]}
+{"eval_id": 254, "standalone_query": "화산 폭발이 발생한 후 새로운 생물 군집이 생겨나는 것을 무엇이라 부르나?", "topk": ["af966ff7-109a-4c28-a644-393f5333ce69", "518fdc20-b87e-445f-a262-296f8bbb618d", "f532c956-a335-4688-9078-b1a13a0cfe58"]}
+{"eval_id": 226, "standalone_query": "축전기를 병렬로 이어주면 전체 용량이 어떻게 되는가?", "topk": ["e21aceaf-be57-426c-b999-7ee8a309db36", "2baabc71-c178-48b5-b83b-a73edb97819f", "f7ede7c9-fa3f-45a4-8f69-5e54a2635920"]}
+{"eval_id": 241, "standalone_query": "정육면체가 가라앉지 않고 물 위에 떠 있을 때 수면 윗부분에 해당하는 부피를 구하는 방법은?", "topk": ["468d098e-2322-4950-ac11-9756f3112944", "cd6bb1fc-4c7f-420b-96bc-dc1e86cf7397", "0b269ea1-2650-4666-9958-500993921e03"]}
+{"eval_id": 261, "standalone_query": "니가 대답을 잘해줘서 너무 신나!", "topk": ["56658a7c-2f09-4754-8515-fe7c1f569d7c", "57ce3c6f-9665-46df-862a-3c4f02b010b5", "6a93bf30-f16d-4581-9725-2e94f7af852a"]}
+{"eval_id": 45, "standalone_query": "건설 현장에서 망치로 벽을 치는 이유는?", "topk": ["41ca41ac-66e3-4a6b-a604-87bf8b3a8d4d", "8132c4ab-f1bd-4915-8196-a13fc3df1f05", "6211fd17-f7cf-4680-82be-365da49b211e"]}
+{"eval_id": 19, "standalone_query": "차량의 매연이 발생하지 않게 만드는 장치가 무엇인가?", "topk": ["d8ad7175-469b-45b5-8eb9-69504cd04f0f", "84f3f0e3-7ff2-4090-9961-aa7bbe8ca412", "9fc7104c-5798-48d5-ad22-b3e533f66001"]}
+{"eval_id": 210, "standalone_query": "python에서 lambda 함수를 언제 사용할 수 있어?", "topk": ["4764014a-4240-4c65-aa92-20eb1369a2f7", "eab2a705-18b6-4bbe-84f4-acacb4cd8a1f", "8336ccdb-36d1-482a-a8e6-a8619681c77c"]}
+{"eval_id": 231, "standalone_query": "강이나 바다의 물이 증발하는 가장 중요한 원인은?", "topk": ["abde2981-9a7c-429b-892d-18570f79947e", "d439d3df-7da2-49a1-bad4-3f72e9de0bc1", "5392d86a-bc7a-46c3-8272-94d982a65eed"]}
+{"eval_id": 233, "standalone_query": "남녀 관계에서 정서적인 행동이 왜 중요해?", "topk": ["029064ed-d9f6-42cd-9b86-88cc9f611414", "183b9d35-a7bc-4516-bab9-e1824a6bd3c8", "360de34f-3062-463f-b334-b402934a74b5"]}
+{"eval_id": 263, "standalone_query": "DNA 조각들이 서로 결합되도록 돕는 것은?", "topk": ["c8fd4323-9af9-4a0d-ab53-e563c71f9795", "ae30b754-a275-43dc-a2c9-95ab33a7c557", "ac826442-684c-4ea4-b602-e356fd63bde8"]}
+{"eval_id": 201, "standalone_query": "해가 뜨는 현상이 지구의 자전과 관련있어?", "topk": ["469e37c0-a241-4675-8b1a-aa31d11a438c", "93f0582d-c7c3-4897-9980-698c33c1b6c4", "3812f9fd-80a0-4cc8-b8f4-aa36b5076360"]}
+{"eval_id": 293, "standalone_query": "두 물질이 다른 분자구조나 화학적인 성분으로 이루어져 있다는 것을 어떻게 알 수 있나요?", "topk": ["36788458-5fb5-4bcd-be02-3a47e5c8c19d", "f4827bb2-ac36-4f84-8652-6769ed0549da", "89eabdde-2762-41b6-860a-b360ac240877"]}
+{"eval_id": 208, "standalone_query": "수성이 뜨거운 이유는?", "topk": ["b22a35e9-244e-44d6-b7bf-97f3ff664866", "f7247f1a-2bc2-4d47-9f38-25981eafb14b", "809896bf-c244-4fb2-ba99-78819e88af8e"]}
+{"eval_id": 282, "standalone_query": "하구 퇴적지의 기능에 대해 알려줘.", "topk": ["2fb58e26-5ea0-4b50-b80d-4b03640042b4", "6f8d2975-3a40-441e-9dd2-c555d7d2fd85", "acc55ae3-8cc6-411f-9324-8e32f54eac75"]}
+{"eval_id": 62, "standalone_query": "디엔에이에서 퓨린과 피리미딘은 어떤 비율로 존재하는가?", "topk": ["e7fef7f2-2549-499b-8b36-e4628119d352", "a19f30a9-eb0a-4985-9ecd-0cda8e54e549", "55a8a653-46e0-4112-8593-7b53a26e6183"]}
+{"eval_id": 55, "standalone_query": "interferon의 역할에 대해 알려줘.", "topk": ["21383ddc-b6bb-4cf7-8815-139a3c4d9fae", "4410dbc2-7b5f-4b0e-856b-1a6fd0939253", "25389563-44fd-4286-a4da-2a0ea0e58ce2"]}
+{"eval_id": 257, "standalone_query": "하나의 유전자에서 여러가지 단백질이 만들어질 수 있는 원인은?", "topk": ["c8bd9b15-8ce0-4307-9f49-0f205217178f", "a74357de-1a40-48c4-9811-1edbdff42f0b", "2a84e442-a1ee-4f61-b3a7-2ced9691b2c1"]}
+{"eval_id": 58, "standalone_query": "질산을 통한 염화물 침전시 염소의 비율을 구하는 방법은?", "topk": ["25bf6c36-116f-42c9-9d1c-c179e6292a34", "963746a0-e9c8-42e6-b432-bea5f0ef6dfd", "e231aedb-63c0-4836-866e-c99e4ac4713b"]}
+{"eval_id": 283, "standalone_query": "이제 그만 얘기해!", "topk": ["5def97b9-65f7-44bd-9df9-ecb5ca52bfce", "56658a7c-2f09-4754-8515-fe7c1f569d7c", "cf393dd4-4d8c-4b5a-b9c7-ff0a5683b93a"]}
+{"eval_id": 32, "standalone_query": "오늘 너무 즐거웠다!", "topk": ["8b22b0a3-63f8-4b38-9d98-0af90499e212", "70e7a3ef-47ac-4b17-9f30-224a16c0ce8a", "d23082b4-ab12-4bcb-8658-d54ba791f263"]}
+{"eval_id": 94, "standalone_query": "우울한데 신나는 얘기 좀 해줘!", "topk": ["8d7709e5-4325-4c93-ad33-0fc7006dc0a9", "03390467-c6dc-4242-a039-c7e9a8bb242f", "3655451d-7c18-4289-896d-5b0aa903dd05"]}
+{"eval_id": 15, "standalone_query": "연구자가 갖추어야 할 태도와 자세가 뭘까?", "topk": ["26cb5bba-0b80-41d4-9e42-aada06c879ca", "166f5ff3-8d29-4a35-8397-1d14a7c886b5", "99337b59-a50d-4005-8e49-35e94618552d"]}
+{"eval_id": 4, "standalone_query": "나이가 들수록 시간이 더 빨리 가는 것 처럼 느끼게 되는 원인은?", "topk": ["aa674ad5-ae70-4223-8685-e717a27dc1b3", "2566f872-32e5-4def-8ed9-3341740e81e8", "e153ff0d-91fa-445e-81bf-ca8071f28b45"]}
+{"eval_id": 300, "standalone_query": "퇴직한 사람들에게 사회 보장은 어떤 의미인가?", "topk": ["41ce1303-0091-4414-b26d-18f66101a99f", "569c414c-732b-478b-a4d2-c0c7f6618c9e", "bb33e3f3-d470-4276-80ca-168d4102b932"]}
+{"eval_id": 243, "standalone_query": "사람이나 물체가 지구 위에서 땅속으로 꺼지거나 바깥으로 튕겨나가지 않고 가만히 서 있을 수 있잖아?그 이유를 힘의 원리로 설명해줘.", "topk": ["12fa6f99-e1e6-449e-96bb-63cc1353790f", "5ff8f00a-a4e6-43fd-8616-3104a4c4d637", "e535c747-8564-4dad-a74d-6b7a62403c37"]}
+{"eval_id": 34, "standalone_query": "씨앗의 기능에 대해 자세히 알려줘?", "topk": ["55726582-8401-4a6f-889b-e9bd3953be7c", "08d7ebd9-60c7-48eb-b2e8-2d5af7eddb2b", "cc6c9dc5-4d30-4653-bee7-9f3ba90fbf48"]}
+{"eval_id": 246, "standalone_query": "친환경 재생 가능 재료가 어떤것들이 있나?", "topk": ["704ab393-faa3-4001-a7b5-e9d675dd90fe", "79cad82b-570c-4112-b726-3701a37b4466", "fbfa89ae-bfe2-46da-beb8-5e1647bc8ecb"]}
+{"eval_id": 212, "standalone_query": "남미의 라틴 역사에 대해 알려줘.", "topk": ["b303e4ec-87fb-40f9-8704-9037bad5af8a", "1b0fe20b-34d9-493e-bf7f-75e1fe45a183", "4dd38664-fc38-4c4d-9969-1d99474a427b"]}
+{"eval_id": 214, "standalone_query": "원자의 내부 구조에 대해 설명해줘.", "topk": ["537715f1-138d-45c2-a8bf-65c5429f5ab9", "50b3e292-2b9e-44a1-bb4d-3a6dc5a0acdb", "36aaf6e0-6ad2-4e05-9cc6-4f05ca04de07"]}
+{"eval_id": 259, "standalone_query": "난관의 기능에 대해 알려줘.", "topk": ["dbfa9bbf-e2da-4d01-8aea-d6f25d43ffcf", "bd98a674-8b61-4e57-9721-4ccaf1d2bdb0", "95d23601-1644-49d4-9686-fcc4406586ed"]}
+{"eval_id": 267, "standalone_query": "공기의 온도가 기후에 미치는 영향은?", "topk": ["c3829f80-57bf-4db6-9e06-dd81b8bb6148", "ec323dbc-76f3-4094-ae84-4f1ea1b750b0", "b1c8288c-4199-4150-9f61-ca1ad24a412e"]}
+{"eval_id": 90, "standalone_query": "안녕 반갑다", "topk": []}
+{"eval_id": 66, "standalone_query": "평균을 구하는 코드를 작성중이야.예외처리가 필요한 경우를 알려줘.", "topk": ["0b5888eb-e3d9-44ed-9c9c-1b88101dd694", "ec87a926-171d-4f62-9acc-1b870c010a16", "0898d075-effb-4ecd-95be-ec0defc5abd1"]}
+{"eval_id": 20, "standalone_query": "소프트웨어 개발이 사람의 편향없이 이루어질 수 있나?", "topk": ["ad5d883f-4352-4d25-ba7b-cbb605c73662", "1cce9c2a-3219-42fa-87b3-766b36df4cc2", "9081f170-07e2-4a15-b72f-9bb2222efac2"]}
+{"eval_id": 24, "standalone_query": "전체 인구에서 특정 유전자의 비율이 변하지 않고 유지되는 상태를 뭐라고 해?", "topk": ["bf4977ff-8fa5-4e82-b957-b6955c5bcbf0", "bc52171b-6d98-472c-9c49-984bbba372be", "5ee76d28-0c1e-444d-b3cf-b2e7d62a60cd"]}
+{"eval_id": 281, "standalone_query": "지구가 생겨난지 얼마나 오래 되었는지 확인하는 방법은?", "topk": ["088bbd81-f77f-4795-b40f-190045706f10", "de5d9a1f-67f6-45ea-a4a4-0540f5b7583e", "d92388f6-ec82-4f43-b67f-0e26bcb0c394"]}
+{"eval_id": 264, "standalone_query": "성적인 자극이 발생하는 과정에 대해 알려줘.", "topk": ["011c479f-7594-4bce-ab72-1bc7b4697186", "31e7fe84-bd3a-4b49-8adc-cc2e1f7a5b42", "0238cd65-3fd2-4115-b1a8-465276768140"]}
+{"eval_id": 79, "standalone_query": "전선 주위로 흐르는 자기장의 모습은 어떻게 보이나?", "topk": ["8394ad57-d4ab-4bf9-8ef3-90eea6459c35", "c59f4bbd-71f6-4073-807f-09e8f0d3efcc", "a9e6f7c9-ed2d-4a17-8407-470c0e7dc0da"]}
+{"eval_id": 304, "standalone_query": "간헐적으로 높은 강도의 운동을 하면 어떤 효과가 있나요?", "topk": ["ff7e8f8e-8d03-419f-bd98-93e3651fd01a", "5dd40a3d-c9ba-4f1d-8661-d457ee052d24", "699d9916-8faf-4dd7-8c24-82a9351d0ca8"]}
+{"eval_id": 292, "standalone_query": "아세틸 콜린의 역할이 뭐야?", "topk": ["655f64b4-74e8-4f5e-9b49-13a976ad3ee4", "8eac310f-a32f-462b-8ca8-da7c8fcd41e7", "23bfbecc-da11-4536-b41f-876ca1cd10e8"]}
+{"eval_id": 215, "standalone_query": "디엔에이와 단백질의 관계와 역할에 대해 설명해줘.", "topk": ["97ed16c9-cc0b-4db0-962f-2f00b19f63e2", "ae30b754-a275-43dc-a2c9-95ab33a7c557", "86d9d3cf-7f25-462e-b6a4-acea602fa1a2"]}
+{"eval_id": 225, "standalone_query": "자전축이 기후에 미치는 영향은?", "topk": ["e00e9883-7fe2-465b-a29b-efc7a88a3956", "6fec9716-f49f-40e9-913e-db3f4df46379", "d5a2c8f9-99ae-49c0-b803-b60eeaf539a1"]}
+{"eval_id": 108, "standalone_query": "여행을 통해 얻을 수 있는 좋은 점들이 뭐가 있어?", "topk": ["d23082b4-ab12-4bcb-8658-d54ba791f263", "c25fb2c3-1c49-4265-bd9a-1386e9159382", "34c00d95-21b1-4403-9e05-0145e6d92e23"]}
+{"eval_id": 98, "standalone_query": "은하들이 점점 멀어지고 있다던데 맞아?어떤 물리적인 현상을 보고 그걸 알게 되었어?", "topk": ["5db9db05-7e10-41d4-8f1f-81259fdc8ea7", "f016fa89-bfab-44ab-a7e4-a8979cf931ec", "dcb6c534-23d4-4dde-ac8c-3b0292bed919"]}
+{"eval_id": 38, "standalone_query": "목성 trojan의 특징에 대해 알려줘.", "topk": ["d525c38e-a296-4dec-8a60-d1fb98a355e3", "e17a3380-323d-4668-bed5-272502280045", "989ee59a-49c4-4cab-b17d-f90107a1c50f"]}
+{"eval_id": 287, "standalone_query": "슈퍼옥시드 디스무타아제 라는 효소에 대해 설명해줘.", "topk": ["79c61856-f978-48c5-a7a8-0863bc661106", "c8fd4323-9af9-4a0d-ab53-e563c71f9795", "f4bae138-74be-4263-9eb8-1b1d3772be96"]}
+{"eval_id": 295, "standalone_query": "네바다주에 살고 있는데...여기 비가 많이 오지 않는 이유가 뭐야?", "topk": ["6a8852ee-b847-4bc8-9b22-a9b47b56181e", "7f7dcbf8-d428-48de-b2e6-500598fe8a9b", "ca1d81ce-e206-4e57-80e1-d8e7b107f3a2"]}
+{"eval_id": 255, "standalone_query": "어떤 물체를 매우 크게 확대해서 볼수 있는 기계는?", "topk": ["62cb0474-809d-4554-82b8-861ba23d8cb4", "a0b1db2b-f43e-4273-b28d-175117514fb5", "91b3fd62-9ffc-4bac-b918-bf31ebbe44ae"]}
+{"eval_id": 76, "standalone_query": "merge sort 알고리즘에 대해 설명해줘.", "topk": ["6c9bca81-11e0-41a4-b894-3bcd66dc2bf6", "e10f0a74-6662-44ed-accd-54b514c21b8a", "6c4b6ae4-ebf5-4e8c-8b0a-6fa9a92e9f6c"]}
+{"eval_id": 248, "standalone_query": "심해가 생태계에 미치는 영향은?", "topk": ["5f74098d-a20c-4ece-a6a9-318804741ace", "29fade0c-58e6-4ffd-8d24-5f2fb0744790", "3eac52c8-db44-40e6-819b-263953e494c1"]}
+{"eval_id": 85, "standalone_query": "저항이 2배로 증가하면 전력은 어떻게 되나?", "topk": ["022a3eb4-5f95-40ac-b208-66c2fa690ff6", "cbb7fc5e-f284-4b66-bd88-ef53baf4ef25", "15f317a8-1d4d-41c4-93ec-bc9be43c3984"]}
+{"eval_id": 290, "standalone_query": "산에 불이 나면 동식물이 많이 죽을텐데불난 후에 자연의 회복 과정은 어떻게 돼?", "topk": ["a2a29cc0-8116-47c0-9d90-44331c6f1914", "93d1aa65-a113-4dd2-8959-e8204bfea616", "7d4c5889-db33-4b9f-8961-f966c6ff02b7"]}
+{"eval_id": 73, "standalone_query": "DNA 분해 효소의 역할에 대해 알려줘.", "topk": ["0d316cb2-c466-4b2b-b28b-0a726d513ef2", "1ee32c21-0178-4442-90dc-51792a0c3c98", "74eb4148-790d-484e-9540-f1e8249b07c2"]}
+{"eval_id": 309, "standalone_query": "특정 농도의 황산 sample을 만드는 방법?", "topk": ["395d6c0b-a199-451e-81ed-b49bfd853927", "d175b97a-35ec-4993-b9b6-86da1663aaef", "9d9a5eb1-bcf3-450e-b0da-8d3fd9cb10cf"]}
+{"eval_id": 239, "standalone_query": "달은 1년 동안 지구를 몇바퀴 도는가?", "topk": ["deb0df64-4649-4785-a87a-2ad90a819c25", "c9744715-5ce5-410d-a140-a21b878435c5", "2ead4363-f521-4377-b71c-f380fd9f5094"]}
+{"eval_id": 284, "standalone_query": "개인의 생물학적, 사회적인 특성 형성에 영향을 미치는 요소에 대해 설명해줘.", "topk": ["552fc915-5ee7-4d6f-a45f-86e8e6a5d02c", "f3eddd60-c61a-4705-8cbf-06debb2e0e97", "37e06323-3903-4c16-89b2-4275945578f9"]}
+{"eval_id": 220, "standalone_query": "너는 누구야?", "topk": []}
+{"eval_id": 96, "standalone_query": "지각은 주로 무엇으로 이루어져 있어?", "topk": ["7c0c9ce7-e664-483c-b426-d49e572e03b7", "be5293e5-1cfb-4f3b-8a9b-6e0ddcfe501d", "810e57ae-aab1-470d-b078-435beb1b5ce8"]}
+{"eval_id": 217, "standalone_query": "오세아니아 섬나라에 광견병이 있어?", "topk": ["0a29b75f-af58-4b6a-a124-0d71ffbcbc89", "01fe2a69-5bf5-4c19-bb05-31ee0714546d", "22f74534-81ca-4a52-942b-2637202b1911"]}
+{"eval_id": 6, "standalone_query": "추울때 폭이 넓은 회색의 구름이 끼면 어떤 날씨가 예상되나?", "topk": ["1a707124-fe53-45aa-baaa-e3e8d6697742", "2316bd71-20e9-4747-a4a6-348f53f4e9f7", "885b7d3a-d152-4d8c-a40d-e197a6aa9bd5"]}
+{"eval_id": 237, "standalone_query": "안정성이 높은 PRP를 만드는 방법에 대해 알려줘.", "topk": ["59d9a47e-3f46-4caa-b4e9-9d3056b3e453", "3d5f6ee9-0ad7-411e-81f9-21df19ad5e16", "d89e78ba-71e3-4200-8049-89f0d13285a9"]}
+{"eval_id": 245, "standalone_query": "너 모르는 것도 있니?", "topk": ["51e070b7-a62f-4b64-99f3-19a26f3b6206", "4d177225-4101-445d-af99-b5685dd1e3b3", "39600cb8-4c55-47af-abc9-4094dd243c82"]}
+{"eval_id": 35, "standalone_query": "중성자의 특징에 대해 설명해줘.", "topk": ["fbebcf3a-bdf6-4124-aded-2c11af3ca5a6", "02759425-149b-467e-af41-11f924577549", "4392ecba-ea79-496b-8931-e1a79caad179"]}
+{"eval_id": 242, "standalone_query": "플랑크톤의 역할에 대해 알려줘.", "topk": ["209121c3-69df-414a-a1b9-c74a1b14384f", "926e8934-7726-4ce4-a8bf-6453fa304abc", "e2b44b59-1b9c-40ce-8fc9-541c92fd7c71"]}
+{"eval_id": 296, "standalone_query": "기생과 공생의 차이에 대해 알려줘.", "topk": ["2570699b-b8c3-409e-b797-a1ee57c1fd86", "6d0b6315-ff03-449d-b2ef-6887d94b7ff6", "3a6f491b-228e-40c4-a805-af9a523ecbd0"]}
+{"eval_id": 307, "standalone_query": "강아지가 사회화되는 행동의 사례는 뭐가 있을까?", "topk": ["5a8089d2-36d8-4734-a16c-85db8226bfd3", "3079f4b5-91be-4fbf-9433-2f8a08cb889e", "d243ee24-0beb-407b-bc4a-effdcc3e3aec"]}
+{"eval_id": 229, "standalone_query": "너 잘하는게 뭐야?", "topk": ["67d746ab-9fe8-4945-b986-4fb4bf0cbd10", "978cd90e-8e01-44c3-922b-746885903315", "86c98dae-2993-4227-97ef-1c80f0ff3f57"]}
+{"eval_id": 30, "standalone_query": "지구에서 새로운 땅이 생겨나는 메커니즘은?", "topk": ["cc9425b7-beaa-4bd9-9ed4-96cd82bda481", "a3585582-47a4-4da8-a5e1-231d9fa06196", "f532c956-a335-4688-9078-b1a13a0cfe58"]}
+{"eval_id": 16, "standalone_query": "더러워진 엔진오일을 잘 처리하는 방법에 대해 알려줘.", "topk": ["21737d6c-8ec9-40fd-80ed-50548228f0e9", "a8897503-7d8f-4380-af49-3b426a79191d", "6acde723-5e70-4789-9fa2-dbee23d5a250"]}
+{"eval_id": 247, "standalone_query": "너 정말 똑똑하다!", "topk": []}
+{"eval_id": 285, "standalone_query": "다람쥐가 열매를 땅에 묻는 행동이 나무에 미치는 영향은?", "topk": ["d4b26e62-5800-495a-9040-01d7a6a2debc", "cab54c1a-2ae1-430e-a988-c7d2e80d2acc", "6b2e092b-e034-49f3-b87b-0b6795f56704"]}
+{"eval_id": 77, "standalone_query": "새로운 생명체의 발생에 대한 오래된 믿음을 깨기 위해 어떤 방법이 사용되었나?", "topk": ["5b8fa65f-9a69-4990-8618-50aa1911e3ec", "d92388f6-ec82-4f43-b67f-0e26bcb0c394", "a8012b24-d996-4f2f-b504-b4afdf050c74"]}
+{"eval_id": 250, "standalone_query": "협곡이 형성되는 과정은?", "topk": ["a06ea0ff-67d9-4967-bbe2-0d9022551740", "1f70c6f1-f1a7-44be-90d6-d397bace344b", "61d065b8-85d4-4d46-896d-55e8cafc3df6"]}
+{"eval_id": 68, "standalone_query": "python 공부중인데...숫자 계산을 위한 operator 우선순위에 대해 알려줘.", "topk": ["59ce17a4-82be-4e0c-adbd-3ef4fd4e8a33", "21ea48b8-b053-4b2d-a1d8-d3ad15e548d7", "39c05d0e-95bd-4c91-a869-b9c52541f0c3"]}
+{"eval_id": 86, "standalone_query": "지구상에 존재하는 물 중 가장 많은 물은 바닷물이잖아?바닷물 말고 담수가 가장 많이 있는 곳이 어디야?", "topk": ["d2762c95-6397-44b5-b20e-81d4b333dd69", "71282cc9-ca9c-4ab2-8e6d-724d1addf667", "8ccbf856-3e6c-4c99-b271-f29ae4440237"]}
+{"eval_id": 232, "standalone_query": "폭풍을 쫓는 사람들이 누구야?", "topk": ["af4a89a5-4fe3-4655-88d7-fd2fcd118441", "8afb522c-1123-4e99-aef2-80beaa37ae82", "9f205aa8-75fd-49e4-8961-bdb3da1a3851"]}
+{"eval_id": 109, "standalone_query": "우라늄을 사용한 원자력 발전의 단점에 대해 알려줘.", "topk": ["00774f87-0573-4dd8-b4dc-c43ce406a51f", "ea3c3d73-25ac-4a52-bbbf-6307ff51ff22", "dd0f2cb2-c6ef-4535-8e4d-bcd9f5017e1a"]}
+{"eval_id": 1, "standalone_query": "고체에서 액체로 변할 때 엔트로피는 어떻게 되나?", "topk": ["4a8549c8-8e81-4804-9df9-852952dd5747", "6c6c0964-4c40-4cd1-94cd-69ae518cfc9a", "3e15adba-0431-4397-88fd-7f90d865075d"]}
+{"eval_id": 28, "standalone_query": "사회로부터의 감정적인 지원이 어떤 형태로 나타날 수 있어?", "topk": ["03390467-c6dc-4242-a039-c7e9a8bb242f", "7cf0214f-57fa-4b19-9aa4-2e04541a5aac", "3debab1d-35c7-4b82-be0d-06003ee497b0"]}
+{"eval_id": 203, "standalone_query": "석탄을 에너지원으로 사용할 때의 장단점이 뭐야?", "topk": ["f81c0a09-4082-4b6a-8546-12371ff89fba", "82c14a9c-625e-4a30-81bc-d05111b884ca", "c67c5684-b931-4220-ac15-d687e1153d1d"]}
+{"eval_id": 91, "standalone_query": "탄소의 내부 구조를 알아낼 수 있는 방법은?", "topk": ["ec326ad8-286b-4f58-9a03-31b94e969f33", "6ee48afb-4dd4-4d59-ad8d-1ce3111121e6", "be98a2e4-f2af-4b79-8231-75629162938a"]}
+{"eval_id": 105, "standalone_query": "연구의 과정과 결과를 잘 기록해야 하는 이유?", "topk": ["b7a0428e-c402-43cb-8e89-3d5f9a7f644b", "32ee69a3-8754-4d61-8f42-fe3b1e2a6e84", "6cfc30cc-685a-44d8-8f54-578d4a42e122"]}
+{"eval_id": 67, "standalone_query": "니가 대답을 잘해줘서 기분이 좋아!", "topk": ["57ce3c6f-9665-46df-862a-3c4f02b010b5", "9e67a4cf-4f0a-4164-8a36-6ead4a457294", "cc55eefe-dadf-4b2d-b08e-288c3e0fff72"]}
+{"eval_id": 13, "standalone_query": "밀물과 썰물의 강도에 영향을 주는 요소들에 대해 알려줘.", "topk": ["30ee5c53-1559-42f5-94c3-2ffb0b9682aa", "6364eaf3-d9e7-44a6-ad59-22ae9f21f452", "1f70c6f1-f1a7-44be-90d6-d397bace344b"]}
+{"eval_id": 57, "standalone_query": "우울한데 신나는 얘기 좀 해줄래?", "topk": ["3655451d-7c18-4289-896d-5b0aa903dd05", "8d7709e5-4325-4c93-ad33-0fc7006dc0a9", "03390467-c6dc-4242-a039-c7e9a8bb242f"]}
+{"eval_id": 2, "standalone_query": "이제 그만 얘기하자.", "topk": []}
+{"eval_id": 253, "standalone_query": "유전 교차에서 복잡형질과 관련된 염색체 영역 식별 방법은?", "topk": ["1c5a826a-2475-478c-b79b-eb48a59e0f5d", "2c99ae59-cdda-4857-9d29-5909b8ab77a2", "af0e1d1c-db58-421f-b90c-1d6949a4398f"]}
+{"eval_id": 49, "standalone_query": "척추 동물이 영역을 가지고 다투는 이유는?", "topk": ["74b5d96e-ea97-4476-850b-f78057d7c457", "d9865fca-0331-4328-8a3e-d6682fd08cd2", "c5ff713e-72cc-405f-bc18-b3abfbdf2ec1"]}
+{"eval_id": 294, "standalone_query": "어린 새들이 생존에서 살아남기 위해 진화한 기능들이 뭐가 있어?", "topk": ["60a2f05e-ddae-42e9-a1e5-5280d516c75b", "c6a126a1-dab6-4d7e-88f0-e0d150675d04", "c53b9d18-1192-4e28-843f-5ae62685a4be"]}
+{"eval_id": 17, "standalone_query": "입자가 같은 속력으로 원운동을 할 때 속도와 가속도 벡터 사이의 각도는 얼마인가?", "topk": ["4d21e0e7-b334-4fe3-9eb2-bf1cbd4ef232", "2b95dadd-deb7-4614-92f2-fba6253db37f", "6c4e8b59-6669-4d20-ab9f-17d421d0376d"]}
+{"eval_id": 207, "standalone_query": "곤충 눈의 구조에 대해 설명해줘.", "topk": ["2e0e35c2-db89-4cfd-b782-47b1acd8404d", "d8c4c7bf-275a-41cd-9b79-9b8b3eb11efa", "b9621e54-b201-4dae-8a60-2d47a9f523c0"]}
+{"eval_id": 227, "standalone_query": "너는 누구니?", "topk": []}
+{"eval_id": 204, "standalone_query": "물고기는 어떻게 숨을 쉬는가?", "topk": ["0937dbcf-7055-450c-854f-c0ff798a6856", "14eab0c3-51d8-48e0-9703-47f34f64bbd2", "8a5ab423-6473-4039-a7bc-cc94eedd6c57"]}
+{"eval_id": 89, "standalone_query": "하천을 모델링하고 싶어.모델링할 때 신경써야 할 사항들이 뭐가 있어?", "topk": ["6f8d2975-3a40-441e-9dd2-c555d7d2fd85", "59952996-37f3-412e-a74c-a13f0cd1aafa", "e3deb804-c1e7-48a4-b395-350b31cb3602"]}
+{"eval_id": 256, "standalone_query": "체질량 지수의 한계에 대해 알려줘.", "topk": ["f1a89f8a-7510-4400-8fbe-20bcb0a2adc3", "ac413814-d09e-478e-8c01-4f1963a669d8", "fdb1fef4-b0ff-42c8-b326-5279ba661a90"]}
+{"eval_id": 291, "standalone_query": "행성의 내부 구조를 이해하기 위한 방법은?", "topk": ["eb5486e9-6790-4df5-8d49-278f5eab6056", "84a2a25e-6247-4e3b-9596-27b1c43812e2", "c0cd88f9-f99b-42d3-b5ba-063e65966745"]}
+{"eval_id": 8, "standalone_query": "식물의 잎이 다수 떨어지거나 구멍이 생기는 현상을 어떻게 해석해야 해?", "topk": ["95cf4ddd-4a18-4e75-bc7d-0cc10964e52e", "d5569147-478a-4b93-b5f1-19dff5e4c092", "0feea222-710e-456f-942e-8835eb2cd3c3"]}
+{"eval_id": 106, "standalone_query": "일식이 발생하는 원리는?", "topk": ["b2e0e809-c9e9-4465-9248-07a9b49b034f", "fc408e3d-9c04-44c4-89e4-139cacce27e3", "86b57665-ccd9-4dc4-a76f-6744e99f759e"]}
+{"eval_id": 84, "standalone_query": "광합성이 무엇인지 그리고 효과에 대해 알려줘.", "topk": ["94cd01c5-d04f-4998-937d-3160ab46a1f1", "4534c0e3-946a-4b02-bdf9-e18ce1f1633a", "51e16b27-438f-446d-a77e-550a0c28d54a"]}
+{"eval_id": 70, "standalone_query": "리보오솜의 역할이 뭐야?", "topk": ["6d88e982-53a9-44f7-896d-d0f949a07237", "7ec6e16f-9a7b-435e-a80d-2a1201f9f644", "addcf615-01c9-4463-b6e5-7fe98574a781"]}
+{"eval_id": 301, "standalone_query": "오늘 너무 즐거웠어!", "topk": ["8b22b0a3-63f8-4b38-9d98-0af90499e212", "70e7a3ef-47ac-4b17-9f30-224a16c0ce8a", "d23082b4-ab12-4bcb-8658-d54ba791f263"]}
+{"eval_id": 230, "standalone_query": "바람이 부는 이유는?", "topk": ["9fec4a4f-851e-4d33-ad4b-b8c2d704012b", "32747dad-ba7f-48ee-a1bc-026180025150", "27535448-1d67-414f-a06e-c3cba8a477f4"]}
+{"eval_id": 92, "standalone_query": "메릴랜드의 대표적인 천연 자원은?", "topk": ["fbfa89ae-bfe2-46da-beb8-5e1647bc8ecb", "3f2e5ed1-2522-4421-896f-86a6dbd996f5", "dd00abd6-626b-4741-83d1-5b36fa36a635"]}
+{"eval_id": 72, "standalone_query": "디엔에이 리가아제의 주요 기능이 뭐야?", "topk": ["c8fd4323-9af9-4a0d-ab53-e563c71f9795", "86d9d3cf-7f25-462e-b6a4-acea602fa1a2", "a19f30a9-eb0a-4985-9ecd-0cda8e54e549"]}
+{"eval_id": 211, "standalone_query": "신체 변화의 정도나 속도가 사람들마다 다른 점으로부터 고려 할 수 있는 사항은?", "topk": ["a91d0f81-373c-414b-9682-8ded87f2984d", "366a91f8-14dd-48b0-9d4d-c1e09a2d3d00", "ddc78d79-9a75-474a-b7b9-3784c1e9db3a"]}
+{"eval_id": 258, "standalone_query": "머클-담고르 해시 함수를 사용한 MAC 보안 취약점은?", "topk": ["627f33cc-dee7-46d1-b392-eb1a5fea3026", "f00c3fb6-6738-4275-828f-0a42e426fef2", "3787711f-ebe6-4c9b-938f-65c24cf63a78"]}
+{"eval_id": 51, "standalone_query": "초코렛이 녹는 물리적인 원리는?", "topk": ["36c3b7a5-e415-453a-a43d-f620d652b29a", "f823a813-f12b-43e4-8cd3-f93a1be22198", "bec3008a-9c61-4e59-b6a1-52b34666ca10"]}
+{"eval_id": 200, "standalone_query": "배터리가 완구를 움직이게 하는 원리는?", "topk": ["d1242985-4e58-41ad-bb80-86a34a6399f4", "ab63b95c-c91f-455f-b1b7-9105eb671b13", "1d6ec55d-ebbe-4052-a13b-cad3e5394293"]}
+{"eval_id": 274, "standalone_query": "궤양성 대장염이 있는 사람들이 조심해야 할 사항들은 뭐가 있어?", "topk": ["5b269648-5d9f-4043-bcf5-962a8e5913e4", "8adaded9-369b-482c-9f14-38440c88d334", "1304187c-894a-4104-9e8f-b9cbdf7c6830"]}
+{"eval_id": 41, "standalone_query": "음파의 주파수와 속도의 관계가 어떻게 돼?", "topk": ["4e7af464-9ff0-499f-913c-79971d6b1c77", "2d1cca9c-238e-439e-ac7a-37295202ceff", "401a6b87-1814-4b80-8608-7c79e2983fd6"]}
+{"eval_id": 87, "standalone_query": "목성 내부에서 온도가 높아지는 원리가 뭐야?", "topk": ["c649c195-d0c2-4e1a-988b-0111661810b8", "304e9cf1-a292-40d2-8b11-a936f8208ae9", "b30cb3ce-8b7d-4072-8025-94b07a8a019c"]}
+{"eval_id": 235, "standalone_query": "결혼 전에 성관계를 가지는 것이 괜찮다고 생각하는 사람들의 주된 특징은?", "topk": ["68ec9c78-13f8-49b9-96d9-b3040a2f4771", "92287744-dfae-4caf-bbc6-868c59274bf5", "a63db056-f2a2-4b17-9592-6c5cd57e6d1c"]}
+{"eval_id": 262, "standalone_query": "나이와 코호트 차이를 다 고려하는 디자인 방식은?", "topk": ["6bc8a76c-de25-49f0-ab05-aee03b565c89", "a29ef63d-b62e-4ed8-9527-7470ffc0db83", "8a0bff0f-65db-4257-aaca-e9440444be79"]}
+{"eval_id": 288, "standalone_query": "건강한 입을 가지고 있는지 판단할 수 있는 방법에 대해 알려줘.", "topk": ["9954d917-170e-477f-84c9-6d1d42927eed", "f431961f-0f74-466c-a28a-cfd472c35ccb", "24991d92-c2dd-4cee-99a6-aa922b0f2eba"]}
+{"eval_id": 60, "standalone_query": "성대 주름이 긴장했는지 어떻게 알 수 있나?", "topk": ["917b7cf4-29c9-4a12-bd8d-2421e2fd98e0", "d25d6442-f858-4133-a746-745829063024", "011c479f-7594-4bce-ab72-1bc7b4697186"]}
+{"eval_id": 222, "standalone_query": "안녕 반가워", "topk": []}
+{"eval_id": 46, "standalone_query": "B-형 간염에 대해 알려줘.", "topk": ["bd5ffdb4-0bc5-41a0-a779-27b0f63fc61a", "fe80efe9-1164-4e6e-8250-a8acc1b06957", "66372719-7b8f-42de-b5be-7e611d9fbe45"]}
+{"eval_id": 234, "standalone_query": "노인 학대를 막기 위한 방안이 뭐가 있을까?", "topk": ["7413982d-c207-4bcb-9489-13ef8c761fa4", "53250345-7e57-478c-b287-d147c05eb4ce", "541d1575-31a8-4427-b49d-0e774d300121"]}
+{"eval_id": 83, "standalone_query": "너 정말 똑똑하구나?", "topk": []}
+{"eval_id": 23, "standalone_query": "식물과 동물중 누가 번식력이 높다고 할 수 있어?", "topk": ["e062f154-7e29-40e5-868c-09165e3c030b", "a1bf9057-c18a-4238-9b1e-2b710e5a613e", "6d43b5a6-de36-4469-8c4a-bd6b7df9d022"]}
+{"eval_id": 82, "standalone_query": "엽록체의 역할에 대해 설명해줘.", "topk": ["70279d69-6221-4758-93f0-d46e18995162", "5057d6af-55d5-4a91-9e86-832bdd14f701", "8ead685d-eb51-45ae-b110-f6d6d43467cb"]}
+{"eval_id": 61, "standalone_query": "특정 물질이 금속으로 되어 있는지 확인 하는 방법은?", "topk": ["83dbe951-ec49-493c-ad36-3fcd640fb30c", "e139e58c-9c3b-4b96-b393-1929ef04f553", "d4c05c93-b927-4932-994f-d6dfb831f15a"]}
+{"eval_id": 56, "standalone_query": "파리가 생태계에 미치는 영향에 대해 알려줘.", "topk": ["fdf2729f-f2f6-4aef-bb57-152a4215e5df", "233a0770-8633-46ab-b1e2-ac351df1b50e", "96fe97b9-f2ac-461a-8c8e-bafd54024987"]}
+{"eval_id": 99, "standalone_query": "칼리시 바이러스는 어떻게 생존을 이어나가는가?", "topk": ["1a4899b4-8df8-48ff-bc25-80bb75633c1e", "a188c969-97df-4d50-a75c-0634b08ac19b", "d1136144-cdf1-4eb0-af46-b42988fb8bda"]}
+{"eval_id": 75, "standalone_query": "옥수수 수확에 어류를 활용하는 방법은?", "topk": ["530c19d3-a054-4dea-a621-152f71873465", "4dfd6849-caba-4043-924d-3ad5f97ddd02", "87cabf08-db0b-423f-910d-6171a3078ab2"]}
+{"eval_id": 299, "standalone_query": "이태리에서 언론의 자유는 어떤 편이야?", "topk": ["91a2fe6f-a626-499e-8111-919e7620ca90", "20da1c0b-8ba9-425b-a53c-014391560737", "1bb5d67b-472f-4e67-b19c-66c7936f4ddf"]}
+{"eval_id": 306, "standalone_query": "은하에는 엄청나게 많은 별들이 모여 있잖아?그 많은 별들이 어떻게 뭉쳐 있을 수 있지?", "topk": ["dafabda1-035e-46ba-8a8e-31c01ce1772b", "199f238b-b9e4-4fbf-95a9-db42b1ad71cc", "4a5a84c1-fe67-4892-9106-2dd7bfbe8cf8"]}
+{"eval_id": 80, "standalone_query": "네트웍 통신시에 주소를 속이는 공격 방법이 뭐야?", "topk": ["977ffc39-98b4-4c09-9e66-abbcc9d99d42", "1c573368-a031-4efe-8872-365378ef5157", "65f57d92-7247-427f-ac39-8bf7ca50909f"]}
+{"eval_id": 64, "standalone_query": "너 모르는 것도 있어?", "topk": ["51e070b7-a62f-4b64-99f3-19a26f3b6206", "b248b794-8b4d-4ae4-8acc-b3a223730409", "5c0da242-26ed-4a3f-b8b2-d36dd890a2f5"]}
+{"eval_id": 271, "standalone_query": "과일 샐러드의 특징에 대해 알려줘.", "topk": ["0598d1c1-f304-47c2-927c-6076838a69e8", "c528c66d-07cc-4fc1-976d-631b76dddc58", "a36897de-8f22-4b37-8615-dec0935343b4"]}
+{"eval_id": 39, "standalone_query": "새로 만든 항생제가 드디어 나왔어.그 효과를 확실히 얘기하기 위해서 해야할 일은?", "topk": ["fc0cbdb8-0add-4931-8591-a21ecbfa5b35", "3e8bdb30-4cf1-427d-ad73-c42fc7555966", "93fb1b5b-1f85-4fe2-b8d2-0f64cb18bd7e"]}
+{"eval_id": 219, "standalone_query": "인간의 침 속에 포함되어 있는 효소는 어떤 역할을 하는가?", "topk": ["d41d40d7-8914-48dc-a3ee-c95afcad4f95", "bb41d9af-c955-4118-a853-6a0c6cc40122", "07a4b636-50bc-4ff2-b10b-4fb9f6780b99"]}
+{"eval_id": 273, "standalone_query": "바다가 육지의 날씨에 미치는 영향은?", "topk": ["1cb4ff78-dab6-4e5d-8635-ce982971d3f9", "330c13b2-e453-44d1-b33c-9d8be2efd9c7", "bf04bb4d-16d5-446e-b672-70e5a66b894a"]}
+{"eval_id": 224, "standalone_query": "네트워크 분석을 위한 traffic sniffing이 뭐야?", "topk": ["7c75080c-5d8f-41e2-ad26-c90ad3f671b0", "f75d3717-24c8-41e6-a78d-ea6f92444209", "1777c375-14e7-474b-a5c6-6457798fe2de"]}
+{"eval_id": 12, "standalone_query": "많은 사람들에게 선한 영향력을 준 벽돌공의 일대기에 대해 알려줘.", "topk": ["9b7bc48a-6e0c-450c-8364-a7da2ac4d4d4", "96459005-ecc6-4db9-914a-14043f280a08", "208437c5-3df4-4fae-84b0-f70a0daf6876"]}
+{"eval_id": 33, "standalone_query": "Python 공부중이야.list의 값중 가장 작은 값을 알려주는 함수가 뭐야?", "topk": ["eab2a705-18b6-4bbe-84f4-acacb4cd8a1f", "0ead6efd-e477-461a-b609-29fcb7c5d038", "5b53496d-48dd-4899-9d45-11f55456cdba"]}
+{"eval_id": 240, "standalone_query": "글루텐이 에너지 흡수에 미치는 영향은?", "topk": ["01684b2f-9360-4d70-93b1-05adb631aa62", "bf80e8d8-305a-4d8b-8aa0-9bc7348dadfc", "74c6a019-b636-401b-8372-e43b88366e35"]}
+{"eval_id": 252, "standalone_query": "해구가 생겨나는 원리는?", "topk": ["3a337b5d-0424-47ed-aba1-c18acce78d9c", "add5d503-2351-42e0-b461-61766889eadb", "9f51187f-8895-43a5-820f-790a9e36d49a"]}
+{"eval_id": 69, "standalone_query": "비만도를 어떻게 측정할 수 있나?", "topk": ["ac413814-d09e-478e-8c01-4f1963a669d8", "34bdf4ea-a524-46d4-8f85-314ad533b68a", "f1a89f8a-7510-4400-8fbe-20bcb0a2adc3"]}
+{"eval_id": 47, "standalone_query": "원자번호는 원자내의 어떤 소립자와 관계 있는가?", "topk": ["ffd02b96-cda9-4ef0-b232-de715a38b137", "cb4a3d86-988e-4425-b295-bbe34317c5cb", "ab0e5e19-5a86-4c3c-b9bd-8298a835f066"]}
+{"eval_id": 0, "standalone_query": "바이러스가 원핵 세포와 서로 작용할 때 사용하는 것은?", "topk": ["e85754e3-12e4-44ec-a2c4-78a5b18b8aa7", "012207ef-dedf-42fb-a952-066e6c8867ec", "81a13db6-e6cb-413d-8616-719a0d7d0ec7"]}
+{"eval_id": 52, "standalone_query": "연기 열수공의 특성에 대해 설명해줘.", "topk": ["70fd8635-e601-421c-9025-64fcbb2d13be", "8132c4ab-f1bd-4915-8196-a13fc3df1f05", "d6fc71f8-19dd-4b0f-8322-236a7904cc1d"]}
+{"eval_id": 103, "standalone_query": "너 뭘 잘해?", "topk": ["67d746ab-9fe8-4945-b986-4fb4bf0cbd10", "83dbe951-ec49-493c-ad36-3fcd640fb30c", "86c98dae-2993-4227-97ef-1c80f0ff3f57"]}
+{"eval_id": 209, "standalone_query": "bridge inverter의 역할에 대해 알려줘?", "topk": ["3149730b-15c0-4e4b-a8d4-0448a477238e", "b83bfcf8-9e5d-4c92-89ba-b2ddd6b20f98", "bb28ab61-7aa2-4ca7-8dcf-4bf82d47b62f"]}
+{"eval_id": 251, "standalone_query": "캠핑의 선기능에 대해 알려줘.", "topk": ["8b22b0a3-63f8-4b38-9d98-0af90499e212", "0a32a2c9-a3fe-4e23-b5ce-f5b3b1dd6f44", "97a84730-c1f6-4314-bd1b-bada4fedee5e"]}
+{"eval_id": 275, "standalone_query": "지구 온난화 때문에 문제가 발생할 수 있는 지역은?", "topk": ["a5685070-8144-4954-b84a-bbddcf859983", "dd00abd6-626b-4741-83d1-5b36fa36a635", "acc57016-3fca-4c6a-a488-04edec12db29"]}
+{"eval_id": 48, "standalone_query": "염소 원자에 빛을 방출했을 때 발생할 수 있는 시나리오에 대해 알려줘.", "topk": ["3f5468bc-4d08-445d-8f27-13034e402d01", "2477aaa8-3420-4727-9acd-41cddc3c350f", "147bc0c1-bce6-48f0-83e0-1d70a64c1b8b"]}
+{"eval_id": 36, "standalone_query": "후두가 안정성을 유지할 수 있는 이유는?", "topk": ["36450671-2474-4e24-867c-46cab8f53a77", "87d1eda6-bfc4-49bb-9e35-5ee8e772726f", "fd40f255-a955-4843-a202-b80f169b69df"]}
+{"eval_id": 218, "standalone_query": "요새 너무 힘드네..", "topk": ["4553d7ac-57e2-4ff7-b814-5954016fecd6", "25eee08d-e182-49a1-a921-8409df136ffb", "b66b9bc2-58c4-4677-8cbf-8f3295a40197"]}
+{"eval_id": 298, "standalone_query": "연구실에서 무엇인지 파악이 안된 가루를 저울로 옮기는 좋은 방법은?", "topk": ["531fef8d-f493-42bc-980f-4a86f91bc5ea", "e73965a2-2f44-4951-aade-9b46a0d4e185", "fbe040c2-4191-4ac9-91e9-70fb8a769740"]}
+{"eval_id": 40, "standalone_query": "금성이 행성중 가장 밝게 보이는 이유는?", "topk": ["464ace62-ddf2-423d-a5d7-2f17e6785c8e", "45b8eb6a-87e3-4333-b01b-7c8b772f827f", "da6c8a3f-45a9-4025-a63a-47c05ba2b336"]}
+{"eval_id": 260, "standalone_query": "자석의 세기에 가장 큰 영향을 주는 불순물은?", "topk": ["994bf8f6-e37d-4ee0-b109-c68554c762dc", "a71c4494-a6aa-4779-8c38-8b510453f03a", "39156e68-d624-4fee-b84a-48418fb83cc7"]}
+{"eval_id": 11, "standalone_query": "솔레노이드가 뭐야?", "topk": ["ec301d79-dd16-4e88-b389-eb5f12bafef8", "7928bc32-883f-45c5-baf0-237af37cc9f8", "d375331c-f183-4f07-b8fe-5339500d59bd"]}
+{"eval_id": 249, "standalone_query": "여러개의 약을 동시에 먹고 있어.이렇게 동시에 먹는 경우 어떤 문제가 생길수 있나?", "topk": ["e9a3297d-f12b-4f25-94a2-78c5c2393ba7", "3370df4d-35fe-4b71-8cb0-5b29dd536da3", "93fb1b5b-1f85-4fe2-b8d2-0f64cb18bd7e"]}
+{"eval_id": 22, "standalone_query": "진폭 변조와 주파수 변조의 차이에 대해 알려줘.", "topk": ["a2f73ce5-2117-4e61-b8fb-17a1c21dad37", "4819c71f-c788-4de8-a30d-0131215bb4f6", "2f0131d5-4e35-4838-aa0a-0f64e6e9bc6f"]}
+{"eval_id": 93, "standalone_query": "잠을 잘 잤을 때 이로운 점을 나열해줘.", "topk": ["74736be6-4150-40db-93c1-a28cf671edb3", "fc061079-2588-4272-9dba-3887cccc4288", "14f34087-0d28-40bc-beff-3c8410843c31"]}
+{"eval_id": 31, "standalone_query": "음파는 어떻게 이동하는가?", "topk": ["81762624-6b09-44e3-b5fb-973ed8f5b7de", "8918f0f9-795d-4f15-8982-2cede58c202e", "40d0c42f-fa06-421a-ab58-e56bb5690f4d"]}
+{"eval_id": 50, "standalone_query": "테러로 인한 이슈와 대응책에 대해 알려줘.", "topk": ["147f526c-82c9-4001-8e68-77c909b73491", "949507ee-6275-4b21-9ebc-eec46a7e89d2", "e5e569a2-aad5-46c8-b71a-6cb021f732e3"]}
+{"eval_id": 277, "standalone_query": "바닥의 마찰이 없는 곳에서 두 사람이 서로 밀어낼때 무게가 덜 나가는 사람이 더 나가는 사람이 더 빨리 움직이게 되는 이유는?", "topk": ["1b0e7e00-2fed-4f84-9ae0-78df4092b938", "ca5405e5-9d78-40fe-8941-78e4709a182f", "aa9307f8-9837-4b5b-9dba-dde175355ebe"]}
+{"eval_id": 27, "standalone_query": "세포간에 갭결합이 생기는 것을 규명한 실험에 대해 알려줘.", "topk": ["0300c15e-5e76-4b43-aead-f80319f536dd", "c381a4d6-2f8e-48e6-9157-cbafc5c6d7a7", "3af0326a-a814-42e5-8ccd-6fbd53b42478"]}
+{"eval_id": 272, "standalone_query": "행성의 크기와 화산이 얼마나 자주 폭발하는지가 관련이 있어?", "topk": ["2276e958-d625-450a-8bee-b06b762e0b16", "bb90d242-cd99-494a-bd7b-9f9e346974eb", "ebde5d63-369c-4fce-8214-d4bbfcec1b78"]}
+{"eval_id": 54, "standalone_query": "우성인 빨간색 꽃과 열성인 흰꽃을 교배한다고 하자.두 꽃을 교배한 후 다음세대 꽃의 색깔은 어떻게 되나?", "topk": ["39821ad7-cabe-4ccc-a6bc-4c0a9592fa4a", "b519a156-4702-46a8-9e87-1c07c154f242", "4d361436-fb55-4df9-9032-6d056c873250"]}
+{"eval_id": 302, "standalone_query": "기계가 연료를 태울 때 어떤 형태로 에너지가 낭비되는가?", "topk": ["b0f3aa6c-8e92-4044-8e53-571e38d9451c", "304851d2-f40a-4727-b9e1-254ba79a6276", "fca752a5-c42b-41c2-8b3b-49e1230b2bb9"]}
+{"eval_id": 3, "standalone_query": "동물들이 종종 집단으로 이주하는 경우가 발생하더라구?이렇게 집단으로 이주하게 되는 계기는 어떤 것들이 있어?", "topk": ["a5097fd3-23ee-40a3-81d8-2a909cc202ee", "254558bf-c608-47aa-952e-3f94805911f3", "dfbf8b98-4fb7-4d72-a382-615f66b4c9ca"]}
+{"eval_id": 202, "standalone_query": "남미 여러 나라들이 중고등학교 취학률을 높이기 위해 어떤 일들을 하고 있어?", "topk": ["88439180-e442-4ecf-a485-88c7de0296e9", "9f9981f6-4956-4244-8c53-81e9e1ec0ac8", "d74dccae-120f-40cd-87fb-78b61ac97e42"]}
+{"eval_id": 74, "standalone_query": "네트웍 계층 중 IP에 대해 설명해줘.", "topk": ["538f5608-6b05-498e-8b85-88d14723801c", "5f206999-c7fc-4252-aa37-27655345e78d", "2fa73480-d1ad-48d8-925a-f9ad8fe4d753"]}
+{"eval_id": 44, "standalone_query": "같은 독감에 다시 걸리면 빨리 회복이 되더라구?그 이유가 뭐야?", "topk": ["8ce9b365-0ab9-4230-af45-6cdfd9a4c25b", "e331bc88-c725-4847-b372-eb8a98076a45", "d6a8c5b8-1c90-4ade-a81a-977e806c62d0"]}
+{"eval_id": 63, "standalone_query": "시소에서 균형을 잡기 위해 양쪽에서 가하는 힘의 크기에 대해 설명해줘.", "topk": ["157054e4-e5a1-4cd7-8bca-08ba63248790", "0be7e536-84f4-4b2b-a382-ffa6ea3b159f", "92cb353a-89e7-45fe-8c99-debf0f33bba9"]}
+{"eval_id": 37, "standalone_query": "두개의 소스로부터 발생한 사건중 어떤 쪽에서 기인한 것인지 확률 계산하는 예시 알려줘.", "topk": ["497d109c-5076-4287-a612-cc9f885150d9", "cef4a312-5277-4259-9add-17f2c30a1381", "300866bd-cd3b-4b2c-a3e3-52215bf29b40"]}
+{"eval_id": 29, "standalone_query": "곤충의 생태를 관찰할 때 사용할 수 있는 방법은?", "topk": ["2e0e35c2-db89-4cfd-b782-47b1acd8404d", "f50cc54c-c51f-45d2-958e-bba326e33417", "d62b1621-ad21-440f-9dce-9bac34d6ac1d"]}
+{"eval_id": 102, "standalone_query": "작은 기체 하나의 질량을 어떻게 구할 수 있어?", "topk": ["6e3b0253-50a3-4ab5-b387-2af50eccf264", "d2d4c263-f0f0-41b3-9390-4929fd8ec57c", "fd8c0fbb-c0da-4257-baa6-b1580bdd9210"]}
+{"eval_id": 228, "standalone_query": "평형분극비율이 뭐야?", "topk": ["74a4c893-af24-42d3-b48f-ae6738295200", "59b15893-ea8a-44e3-b33f-04c3ce9b2e10", "92cb353a-89e7-45fe-8c99-debf0f33bba9"]}
+{"eval_id": 297, "standalone_query": "근친간의 성행위가 금해지는 이유는?", "topk": ["bcb32b8a-4ba8-47c6-b565-04569f496a26", "e3f4be02-43d2-421d-961b-792c09439701", "24b92d47-eca8-425b-8de5-adf6d2d5004d"]}
+{"eval_id": 278, "standalone_query": "노인들이 종종 후각 능력을 잃게 되는 경우가 있더라구?이렇게 냄새를 못맡게 되면 어떤 결과로 이어지지?", "topk": ["10ad718b-f08c-405c-bffe-b819f64ad012", "1e8d02ea-b91a-447f-8c5b-180af169af8b", "aa674ad5-ae70-4223-8685-e717a27dc1b3"]}
+{"eval_id": 53, "standalone_query": "하늘이 파란 이유는?", "topk": ["34d9ff5e-ccde-4e54-bd7e-e400c925bf62", "a53d4e09-809a-4b27-9c74-e0a4bd1c6890", "92ee6070-0603-4c73-94b7-42861602208e"]}
+{"eval_id": 26, "standalone_query": "짚신 벌레의 번식은 어떻게 이루어지나?", "topk": ["7a7412db-e9f4-4797-909b-dc8109011540", "3ee43354-16a6-4416-87f5-e380da6dbbe1", "cf465c39-755c-4985-a804-63007cc9f8bc"]}
+{"eval_id": 265, "standalone_query": "온난 전선이 발생하면 이후 날씨는 어떻게 되나?", "topk": ["56e5d264-6f82-4e01-8a96-5f369204dc44", "acc57016-3fca-4c6a-a488-04edec12db29", "84934dd1-81ad-4bb1-95e0-ccf02d38b49b"]}
+{"eval_id": 216, "standalone_query": "전기가 흐르는 회로에서 전선과 전구의 전류는 동일한가?", "topk": ["07ba99c0-c36a-464c-a896-8466cc84c501", "84934dd1-81ad-4bb1-95e0-ccf02d38b49b", "185008d2-6091-4beb-94e4-d847d70fdea6"]}
+{"eval_id": 95, "standalone_query": "플로리다에서 친환경 에너지를 가장 효과적으로 활용할 수 있는 시기는?", "topk": ["647f45f2-bafd-4b6e-a100-2ae559cc8925", "21399d79-a083-4ab9-a3e3-09d4b4d18cdc", "cc56ca24-fde0-458d-95f7-d3d31b79acb5"]}
+{"eval_id": 305, "standalone_query": "농장이 해안가 환경에 나쁜 영향을 미칠 수 있는 원인이 뭐가 있어?", "topk": ["613bcebe-d2b1-4611-9cd5-ac904cd3361f", "5594ee21-e922-43b3-aea8-51ed12331f16", "6c9942be-e41c-4c8c-8dde-5044973c27e9"]}
+{"eval_id": 7, "standalone_query": "자성을 띄지 않는 유전체 내부에서 빛의 속도는 어떻게 되나?", "topk": ["e4d075ab-c60b-4b22-bb31-ea0ca56e1faf", "281273f5-0adf-4bf7-9b3e-26c77b894ec7", "e6777a84-144b-47db-b69c-d2125f1574c7"]}
+{"eval_id": 88, "standalone_query": "자연보호구역이 필요한 이유는?", "topk": ["27422081-5e3e-4716-b7c2-883e7961640d", "9864f271-9e10-4ffd-b0ce-0a2dfd4f4f37", "5fd8794e-1d2b-4c33-b40c-2fa40c6c37c8"]}
+{"eval_id": 244, "standalone_query": "정상파가 뭐야?", "topk": ["fed07bdf-90e8-4236-bc5e-43eb5fe17061", "24528236-6f25-4084-a6be-1d69293811dd", "6b5e0ad8-6108-4d20-93fb-e598d836b910"]}
+{"eval_id": 223, "standalone_query": "공에 힘이 주어졌을 때 공이 어떻게 움직이는지 과학적으로 설명해줘.", "topk": ["e2161953-e80b-41b3-a83b-5bc7d76a801c", "2107ea05-8350-45e8-b72f-19e99ed1256d", "a662feb5-e069-44d8-b148-4641039d2329"]}
+{"eval_id": 303, "standalone_query": "동물들이 피부나 털의 색깔을 통해 생존의 확률을 높이는 방식에 대해 설명해줘.", "topk": ["5973b08a-ef7d-431c-ac58-d31d4a57d63c", "6b6971ff-885f-48cf-adca-46bbd01041e6", "fd84a7cd-1309-45e4-8811-1a89bd432e7c"]}
+{"eval_id": 286, "standalone_query": "메탄과 산소의 화학 반응에 대해 알려줘.", "topk": ["466f5811-9b37-4589-9571-bafadd92c349", "d62d2c35-c22c-42b0-b332-41d05ba8a9dd", "6c21a0da-d88a-4970-aca2-49f97e9d8eba"]}
+{"eval_id": 266, "standalone_query": "복숭아 키우는 노하우좀?", "topk": ["bf023a9d-47f3-4d77-8bf1-5a854b5403a7", "f4241bc6-9809-4747-ad28-53c8993ff8af", "45e3957c-216a-4ea9-a556-5a6723cd2240"]}
